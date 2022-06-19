@@ -1,3 +1,4 @@
+[Financial Sample analyzed by Misbaudeen_xls.xlsx](https://github.com/Misbaudeen-xls/Misbaudeen_xls-Baby-Step-in-Data-Analysis/files/8936438/Financial.Sample.analyzed.by.Misbaudeen_xls.xlsx)
 # Misbaudeen_xls-Baby-Step-in-Data-Analysis
 
 
